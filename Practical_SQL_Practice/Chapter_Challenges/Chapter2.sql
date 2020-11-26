@@ -1,4 +1,7 @@
--- Chapter 2 Challenge Queries --
+-- Chapter 2: Beginning Data Exploration With Select
+-- Challenge Queries
+
+
 -- Write a query that lists the schools in alphabetical order along with teachers ordered by last name A-Z
 SELECT school, first_name, last_name
 FROM teachers
