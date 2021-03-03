@@ -1,3 +1,5 @@
+-- Chapter 2 --
+
 -- Teachers Table Schema --
 
 CREATE DATABASE analysis;
